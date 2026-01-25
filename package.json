@@ -1,0 +1,22 @@
+{
+    "name": "utpatti-flow-root",
+    "version": "1.0.0",
+    "description": "Root script to run full stack",
+    "scripts": {
+        "install-all": "npm install && cd client && npm install && cd ../server && npm install",
+        "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\"",
+        "build": "cd client && npm run build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^25.0.10",
+        "@types/react": "^19.2.9",
+        "@types/react-dom": "^19.2.3",
+        "@types/three": "^0.182.0",
+        "concurrently": "^8.2.0",
+        "three": "^0.182.0",
+        "typescript": "^5.9.3"
+    }
+}
