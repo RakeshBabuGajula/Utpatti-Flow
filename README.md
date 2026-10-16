@@ -1,10 +1,6 @@
 # ⚡ Utpatti Flow — Enterprise SDLC Workflow & Kanban Orchestration Platform
 
 <p align="center">
-  <img width="100%" alt="Utpatti Flow Banner" src="https://github.com/user-attachments/assets/3eda75f8-4305-4860-9154-abd3e2b37d1f" style="border-radius: 12px; box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);" />
-</p>
-
-<p align="center">
   <strong>A high-performance full-stack MERN application engineered to model, visualize, and govern the Software Development Life Cycle (SDLC) with real-time kanban workflow, optimistic state reconciliation, and immutable audit tracking.</strong>
 </p>
 
